@@ -23,7 +23,7 @@ do
 		 
 	if (($var>>3 & 1))
 	then
-		 gpio write 3 1; #turn on led light 0 (bit 1)			 
+		 gpio write 3 1; 			 
 	fi 
 	
 	(( counter++ ))
