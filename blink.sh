@@ -1,4 +1,4 @@
-#Write code to randomly assign a bit pattern to your array of LED’s
+#Write code to randomly assign a bit pattern to your array of LEDâ€™s
 #changing every 0.25 of a second. Note: the Bash variable $RANDOM
 #(note: upper case) is a random number. 
 
